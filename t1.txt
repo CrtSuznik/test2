@@ -1,4 +1,4 @@
-prva
-drugaLeva
-druga
-tretjaDesna
+1
+2
+3
+4
